@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Foreign by particular affect enter money after item."] {
+                true
+            }
