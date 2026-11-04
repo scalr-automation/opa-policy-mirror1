@@ -1,4 +1,5 @@
 package terraform
 
-default deny = []
-message = "Always passed policy for auto testing"
+            deny["Probably voice must another and play citizen size."] {
+                true
+            }
